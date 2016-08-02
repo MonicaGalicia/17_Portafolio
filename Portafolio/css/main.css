@@ -1,0 +1,95 @@
+/* Inserte su codigo aqui */
+
+
+.fondo{
+	background-color:#FFC300;
+	background-size:100%;
+	height:550px;
+	}
+
+.boton{
+	width:100px;
+	height:50px;
+	background-color:orange;
+	margin-top:35px;
+	margin-left:150px;
+	text-decoration:none;
+
+	}
+
+	#sumate{
+	font-size:15px;
+	font-family:Arial;
+	color:white;
+	text-align:center;
+
+	}
+
+	li{
+	display:inline-block;
+	list-style:none;
+	margin-top:35px;
+	margin:left:15px;
+
+}
+
+.ali{
+	text-decoration:none;
+	font-size:20px;
+	color:white;
+
+}
+
+#color{
+	color:white;
+	text-align:center;
+	margin-top:150px;
+}
+
+#backgris{
+	background-color:#C6BCBA;
+	background-size:100%;
+	height:1150px;
+}
+
+.backblanc{
+	background-color:white;
+	width:450px;
+	height:550px;
+	margin:15px;
+
+}
+
+.interiorgris{
+	width:320px;
+	height:300px;
+	position:relative;
+	left:70px;
+	top:25px;
+	margin-bottom:25px;
+}
+
+.alinear{
+	text-align:justify;
+	margin-left:10px;
+}
+
+h4{
+	margin:10px 0px 10px 20px;
+}
+
+#footer{
+	background-color:#3C3A3A;
+	height:100px;
+}
+
+#pfooter{
+	color:white;
+	font-size:17px;
+	margin-top:25px;
+	margin-left:55px;
+
+}
+
+
+	
